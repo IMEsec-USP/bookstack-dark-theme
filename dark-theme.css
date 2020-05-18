@@ -77,5 +77,14 @@ pages */
 /* mobile stuff */
 
 .tri-layout-mobile-tabs{
-    background-color: #191919 !important; 
+    background-color: #191919 !important;
+}
+
+.comment-box {
+    background-color: #333 !important;
+    border: 0 !important;
+}
+
+a, a:hover, a:focus, .text-button, .text-button:hover, .text-button:focus {
+    fill: #eee !important;
 }

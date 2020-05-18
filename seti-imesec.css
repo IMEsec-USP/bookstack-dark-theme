@@ -7,7 +7,9 @@
 
 */
 
-
+html {
+	background-color: #242424;
+}
 .cm-s-seti.CodeMirror {
   background-color: #151718 !important;
   color: #CFD2D1 !important;
